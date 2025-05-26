@@ -1,0 +1,812 @@
+[
+  {
+    "date": "2025-01-31",
+    "newAdmissions": 18,
+    "discharges": 9,
+    "emergencyVisits": 42,
+    "surgeries": 10,
+    "revenue": 135552,
+    "expenses": 106067
+  },
+  {
+    "date": "2025-02-01",
+    "newAdmissions": 5,
+    "discharges": 13,
+    "emergencyVisits": 31,
+    "surgeries": 3,
+    "revenue": 91470,
+    "expenses": 68460
+  },
+  {
+    "date": "2025-02-02",
+    "newAdmissions": 6,
+    "discharges": 13,
+    "emergencyVisits": 22,
+    "surgeries": 5,
+    "revenue": 95043,
+    "expenses": 50985
+  },
+  {
+    "date": "2025-02-03",
+    "newAdmissions": 7,
+    "discharges": 5,
+    "emergencyVisits": 23,
+    "surgeries": 7,
+    "revenue": 51397,
+    "expenses": 78343
+  },
+  {
+    "date": "2025-02-04",
+    "newAdmissions": 17,
+    "discharges": 10,
+    "emergencyVisits": 47,
+    "surgeries": 8,
+    "revenue": 114322,
+    "expenses": 100491
+  },
+  {
+    "date": "2025-02-05",
+    "newAdmissions": 15,
+    "discharges": 13,
+    "emergencyVisits": 35,
+    "surgeries": 12,
+    "revenue": 63672,
+    "expenses": 101332
+  },
+  {
+    "date": "2025-02-06",
+    "newAdmissions": 22,
+    "discharges": 10,
+    "emergencyVisits": 22,
+    "surgeries": 14,
+    "revenue": 136457,
+    "expenses": 41870
+  },
+  {
+    "date": "2025-02-07",
+    "newAdmissions": 15,
+    "discharges": 12,
+    "emergencyVisits": 33,
+    "surgeries": 6,
+    "revenue": 112667,
+    "expenses": 66786
+  },
+  {
+    "date": "2025-02-08",
+    "newAdmissions": 17,
+    "discharges": 5,
+    "emergencyVisits": 29,
+    "surgeries": 12,
+    "revenue": 129554,
+    "expenses": 91100
+  },
+  {
+    "date": "2025-02-09",
+    "newAdmissions": 14,
+    "discharges": 15,
+    "emergencyVisits": 32,
+    "surgeries": 8,
+    "revenue": 94792,
+    "expenses": 107010
+  },
+  {
+    "date": "2025-02-10",
+    "newAdmissions": 18,
+    "discharges": 16,
+    "emergencyVisits": 27,
+    "surgeries": 12,
+    "revenue": 53091,
+    "expenses": 111719
+  },
+  {
+    "date": "2025-02-11",
+    "newAdmissions": 11,
+    "discharges": 19,
+    "emergencyVisits": 24,
+    "surgeries": 5,
+    "revenue": 108450,
+    "expenses": 49971
+  },
+  {
+    "date": "2025-02-12",
+    "newAdmissions": 17,
+    "discharges": 20,
+    "emergencyVisits": 47,
+    "surgeries": 12,
+    "revenue": 130500,
+    "expenses": 95948
+  },
+  {
+    "date": "2025-02-13",
+    "newAdmissions": 8,
+    "discharges": 19,
+    "emergencyVisits": 45,
+    "surgeries": 14,
+    "revenue": 135095,
+    "expenses": 118704
+  },
+  {
+    "date": "2025-02-14",
+    "newAdmissions": 23,
+    "discharges": 7,
+    "emergencyVisits": 22,
+    "surgeries": 9,
+    "revenue": 146355,
+    "expenses": 88236
+  },
+  {
+    "date": "2025-02-15",
+    "newAdmissions": 9,
+    "discharges": 6,
+    "emergencyVisits": 26,
+    "surgeries": 14,
+    "revenue": 103287,
+    "expenses": 84780
+  },
+  {
+    "date": "2025-02-16",
+    "newAdmissions": 17,
+    "discharges": 8,
+    "emergencyVisits": 25,
+    "surgeries": 13,
+    "revenue": 113526,
+    "expenses": 72690
+  },
+  {
+    "date": "2025-02-17",
+    "newAdmissions": 14,
+    "discharges": 13,
+    "emergencyVisits": 31,
+    "surgeries": 6,
+    "revenue": 136872,
+    "expenses": 106143
+  },
+  {
+    "date": "2025-02-18",
+    "newAdmissions": 6,
+    "discharges": 18,
+    "emergencyVisits": 36,
+    "surgeries": 10,
+    "revenue": 99359,
+    "expenses": 102548
+  },
+  {
+    "date": "2025-02-19",
+    "newAdmissions": 9,
+    "discharges": 7,
+    "emergencyVisits": 49,
+    "surgeries": 5,
+    "revenue": 109190,
+    "expenses": 105678
+  },
+  {
+    "date": "2025-02-20",
+    "newAdmissions": 8,
+    "discharges": 6,
+    "emergencyVisits": 24,
+    "surgeries": 4,
+    "revenue": 130170,
+    "expenses": 46064
+  },
+  {
+    "date": "2025-02-21",
+    "newAdmissions": 10,
+    "discharges": 6,
+    "emergencyVisits": 21,
+    "surgeries": 10,
+    "revenue": 103695,
+    "expenses": 116911
+  },
+  {
+    "date": "2025-02-22",
+    "newAdmissions": 16,
+    "discharges": 14,
+    "emergencyVisits": 26,
+    "surgeries": 5,
+    "revenue": 135034,
+    "expenses": 108138
+  },
+  {
+    "date": "2025-02-23",
+    "newAdmissions": 11,
+    "discharges": 18,
+    "emergencyVisits": 58,
+    "surgeries": 13,
+    "revenue": 140991,
+    "expenses": 92955
+  },
+  {
+    "date": "2025-02-24",
+    "newAdmissions": 13,
+    "discharges": 10,
+    "emergencyVisits": 30,
+    "surgeries": 14,
+    "revenue": 144573,
+    "expenses": 65936
+  },
+  {
+    "date": "2025-02-25",
+    "newAdmissions": 12,
+    "discharges": 17,
+    "emergencyVisits": 24,
+    "surgeries": 4,
+    "revenue": 81252,
+    "expenses": 95004
+  },
+  {
+    "date": "2025-02-26",
+    "newAdmissions": 8,
+    "discharges": 6,
+    "emergencyVisits": 41,
+    "surgeries": 13,
+    "revenue": 70923,
+    "expenses": 110266
+  },
+  {
+    "date": "2025-02-27",
+    "newAdmissions": 6,
+    "discharges": 18,
+    "emergencyVisits": 59,
+    "surgeries": 7,
+    "revenue": 60462,
+    "expenses": 41515
+  },
+  {
+    "date": "2025-02-28",
+    "newAdmissions": 12,
+    "discharges": 5,
+    "emergencyVisits": 40,
+    "surgeries": 8,
+    "revenue": 109454,
+    "expenses": 70359
+  },
+  {
+    "date": "2025-03-01",
+    "newAdmissions": 6,
+    "discharges": 12,
+    "emergencyVisits": 31,
+    "surgeries": 5,
+    "revenue": 119893,
+    "expenses": 93028
+  },
+  {
+    "date": "2025-03-02",
+    "newAdmissions": 17,
+    "discharges": 16,
+    "emergencyVisits": 46,
+    "surgeries": 7,
+    "revenue": 78527,
+    "expenses": 80164
+  },
+  {
+    "date": "2025-03-03",
+    "newAdmissions": 20,
+    "discharges": 5,
+    "emergencyVisits": 39,
+    "surgeries": 12,
+    "revenue": 146759,
+    "expenses": 83371
+  },
+  {
+    "date": "2025-03-04",
+    "newAdmissions": 12,
+    "discharges": 19,
+    "emergencyVisits": 56,
+    "surgeries": 14,
+    "revenue": 135748,
+    "expenses": 68203
+  },
+  {
+    "date": "2025-03-05",
+    "newAdmissions": 10,
+    "discharges": 15,
+    "emergencyVisits": 48,
+    "surgeries": 4,
+    "revenue": 129944,
+    "expenses": 99447
+  },
+  {
+    "date": "2025-03-06",
+    "newAdmissions": 8,
+    "discharges": 13,
+    "emergencyVisits": 24,
+    "surgeries": 9,
+    "revenue": 127052,
+    "expenses": 45578
+  },
+  {
+    "date": "2025-03-07",
+    "newAdmissions": 24,
+    "discharges": 11,
+    "emergencyVisits": 35,
+    "surgeries": 14,
+    "revenue": 64512,
+    "expenses": 116831
+  },
+  {
+    "date": "2025-03-08",
+    "newAdmissions": 24,
+    "discharges": 19,
+    "emergencyVisits": 59,
+    "surgeries": 5,
+    "revenue": 105266,
+    "expenses": 98526
+  },
+  {
+    "date": "2025-03-09",
+    "newAdmissions": 7,
+    "discharges": 13,
+    "emergencyVisits": 41,
+    "surgeries": 3,
+    "revenue": 120064,
+    "expenses": 109349
+  },
+  {
+    "date": "2025-03-10",
+    "newAdmissions": 14,
+    "discharges": 9,
+    "emergencyVisits": 36,
+    "surgeries": 15,
+    "revenue": 78578,
+    "expenses": 60367
+  },
+  {
+    "date": "2025-03-11",
+    "newAdmissions": 21,
+    "discharges": 6,
+    "emergencyVisits": 25,
+    "surgeries": 6,
+    "revenue": 122805,
+    "expenses": 43704
+  },
+  {
+    "date": "2025-03-12",
+    "newAdmissions": 25,
+    "discharges": 19,
+    "emergencyVisits": 23,
+    "surgeries": 9,
+    "revenue": 116358,
+    "expenses": 112788
+  },
+  {
+    "date": "2025-03-13",
+    "newAdmissions": 13,
+    "discharges": 9,
+    "emergencyVisits": 45,
+    "surgeries": 14,
+    "revenue": 87305,
+    "expenses": 101916
+  },
+  {
+    "date": "2025-03-14",
+    "newAdmissions": 23,
+    "discharges": 10,
+    "emergencyVisits": 50,
+    "surgeries": 11,
+    "revenue": 105256,
+    "expenses": 67056
+  },
+  {
+    "date": "2025-03-15",
+    "newAdmissions": 7,
+    "discharges": 19,
+    "emergencyVisits": 30,
+    "surgeries": 3,
+    "revenue": 94033,
+    "expenses": 87168
+  },
+  {
+    "date": "2025-03-16",
+    "newAdmissions": 14,
+    "discharges": 10,
+    "emergencyVisits": 22,
+    "surgeries": 4,
+    "revenue": 95738,
+    "expenses": 43866
+  },
+  {
+    "date": "2025-03-17",
+    "newAdmissions": 8,
+    "discharges": 5,
+    "emergencyVisits": 41,
+    "surgeries": 5,
+    "revenue": 84929,
+    "expenses": 111544
+  },
+  {
+    "date": "2025-03-18",
+    "newAdmissions": 21,
+    "discharges": 13,
+    "emergencyVisits": 51,
+    "surgeries": 3,
+    "revenue": 55211,
+    "expenses": 70155
+  },
+  {
+    "date": "2025-03-19",
+    "newAdmissions": 22,
+    "discharges": 6,
+    "emergencyVisits": 22,
+    "surgeries": 7,
+    "revenue": 65327,
+    "expenses": 76779
+  },
+  {
+    "date": "2025-03-20",
+    "newAdmissions": 15,
+    "discharges": 17,
+    "emergencyVisits": 58,
+    "surgeries": 13,
+    "revenue": 100388,
+    "expenses": 71798
+  },
+  {
+    "date": "2025-03-21",
+    "newAdmissions": 5,
+    "discharges": 11,
+    "emergencyVisits": 37,
+    "surgeries": 12,
+    "revenue": 142783,
+    "expenses": 48023
+  },
+  {
+    "date": "2025-03-22",
+    "newAdmissions": 10,
+    "discharges": 6,
+    "emergencyVisits": 49,
+    "surgeries": 12,
+    "revenue": 120370,
+    "expenses": 106489
+  },
+  {
+    "date": "2025-03-23",
+    "newAdmissions": 24,
+    "discharges": 7,
+    "emergencyVisits": 23,
+    "surgeries": 9,
+    "revenue": 52265,
+    "expenses": 91717
+  },
+  {
+    "date": "2025-03-24",
+    "newAdmissions": 24,
+    "discharges": 17,
+    "emergencyVisits": 20,
+    "surgeries": 15,
+    "revenue": 140129,
+    "expenses": 46867
+  },
+  {
+    "date": "2025-03-25",
+    "newAdmissions": 12,
+    "discharges": 17,
+    "emergencyVisits": 44,
+    "surgeries": 9,
+    "revenue": 112572,
+    "expenses": 43947
+  },
+  {
+    "date": "2025-03-26",
+    "newAdmissions": 13,
+    "discharges": 17,
+    "emergencyVisits": 52,
+    "surgeries": 7,
+    "revenue": 56421,
+    "expenses": 61003
+  },
+  {
+    "date": "2025-03-27",
+    "newAdmissions": 5,
+    "discharges": 8,
+    "emergencyVisits": 21,
+    "surgeries": 14,
+    "revenue": 54644,
+    "expenses": 117934
+  },
+  {
+    "date": "2025-03-28",
+    "newAdmissions": 15,
+    "discharges": 8,
+    "emergencyVisits": 54,
+    "surgeries": 7,
+    "revenue": 58579,
+    "expenses": 84714
+  },
+  {
+    "date": "2025-03-29",
+    "newAdmissions": 21,
+    "discharges": 11,
+    "emergencyVisits": 29,
+    "surgeries": 11,
+    "revenue": 147859,
+    "expenses": 75491
+  },
+  {
+    "date": "2025-03-30",
+    "newAdmissions": 17,
+    "discharges": 18,
+    "emergencyVisits": 38,
+    "surgeries": 7,
+    "revenue": 129036,
+    "expenses": 110431
+  },
+  {
+    "date": "2025-03-31",
+    "newAdmissions": 22,
+    "discharges": 5,
+    "emergencyVisits": 27,
+    "surgeries": 13,
+    "revenue": 135044,
+    "expenses": 61252
+  },
+  {
+    "date": "2025-04-01",
+    "newAdmissions": 23,
+    "discharges": 18,
+    "emergencyVisits": 31,
+    "surgeries": 9,
+    "revenue": 53732,
+    "expenses": 113362
+  },
+  {
+    "date": "2025-04-02",
+    "newAdmissions": 9,
+    "discharges": 8,
+    "emergencyVisits": 49,
+    "surgeries": 13,
+    "revenue": 97373,
+    "expenses": 97311
+  },
+  {
+    "date": "2025-04-03",
+    "newAdmissions": 12,
+    "discharges": 5,
+    "emergencyVisits": 50,
+    "surgeries": 14,
+    "revenue": 89438,
+    "expenses": 103202
+  },
+  {
+    "date": "2025-04-04",
+    "newAdmissions": 24,
+    "discharges": 16,
+    "emergencyVisits": 43,
+    "surgeries": 9,
+    "revenue": 106836,
+    "expenses": 61176
+  },
+  {
+    "date": "2025-04-05",
+    "newAdmissions": 7,
+    "discharges": 5,
+    "emergencyVisits": 20,
+    "surgeries": 15,
+    "revenue": 141128,
+    "expenses": 101578
+  },
+  {
+    "date": "2025-04-06",
+    "newAdmissions": 8,
+    "discharges": 7,
+    "emergencyVisits": 26,
+    "surgeries": 8,
+    "revenue": 72635,
+    "expenses": 51217
+  },
+  {
+    "date": "2025-04-07",
+    "newAdmissions": 22,
+    "discharges": 5,
+    "emergencyVisits": 57,
+    "surgeries": 7,
+    "revenue": 69364,
+    "expenses": 64748
+  },
+  {
+    "date": "2025-04-08",
+    "newAdmissions": 21,
+    "discharges": 17,
+    "emergencyVisits": 28,
+    "surgeries": 14,
+    "revenue": 60219,
+    "expenses": 49708
+  },
+  {
+    "date": "2025-04-09",
+    "newAdmissions": 21,
+    "discharges": 18,
+    "emergencyVisits": 31,
+    "surgeries": 3,
+    "revenue": 93061,
+    "expenses": 104313
+  },
+  {
+    "date": "2025-04-10",
+    "newAdmissions": 18,
+    "discharges": 17,
+    "emergencyVisits": 56,
+    "surgeries": 12,
+    "revenue": 54806,
+    "expenses": 74102
+  },
+  {
+    "date": "2025-04-11",
+    "newAdmissions": 20,
+    "discharges": 15,
+    "emergencyVisits": 23,
+    "surgeries": 12,
+    "revenue": 125031,
+    "expenses": 56852
+  },
+  {
+    "date": "2025-04-12",
+    "newAdmissions": 19,
+    "discharges": 6,
+    "emergencyVisits": 27,
+    "surgeries": 6,
+    "revenue": 75611,
+    "expenses": 82136
+  },
+  {
+    "date": "2025-04-13",
+    "newAdmissions": 11,
+    "discharges": 7,
+    "emergencyVisits": 56,
+    "surgeries": 7,
+    "revenue": 71893,
+    "expenses": 82120
+  },
+  {
+    "date": "2025-04-14",
+    "newAdmissions": 5,
+    "discharges": 7,
+    "emergencyVisits": 28,
+    "surgeries": 11,
+    "revenue": 55068,
+    "expenses": 53637
+  },
+  {
+    "date": "2025-04-15",
+    "newAdmissions": 6,
+    "discharges": 11,
+    "emergencyVisits": 47,
+    "surgeries": 8,
+    "revenue": 143601,
+    "expenses": 61711
+  },
+  {
+    "date": "2025-04-16",
+    "newAdmissions": 19,
+    "discharges": 7,
+    "emergencyVisits": 28,
+    "surgeries": 15,
+    "revenue": 123736,
+    "expenses": 41333
+  },
+  {
+    "date": "2025-04-17",
+    "newAdmissions": 20,
+    "discharges": 8,
+    "emergencyVisits": 46,
+    "surgeries": 14,
+    "revenue": 55772,
+    "expenses": 111340
+  },
+  {
+    "date": "2025-04-18",
+    "newAdmissions": 11,
+    "discharges": 12,
+    "emergencyVisits": 37,
+    "surgeries": 4,
+    "revenue": 76164,
+    "expenses": 90830
+  },
+  {
+    "date": "2025-04-19",
+    "newAdmissions": 15,
+    "discharges": 18,
+    "emergencyVisits": 50,
+    "surgeries": 14,
+    "revenue": 99650,
+    "expenses": 92119
+  },
+  {
+    "date": "2025-04-20",
+    "newAdmissions": 7,
+    "discharges": 16,
+    "emergencyVisits": 42,
+    "surgeries": 4,
+    "revenue": 59149,
+    "expenses": 90848
+  },
+  {
+    "date": "2025-04-21",
+    "newAdmissions": 18,
+    "discharges": 10,
+    "emergencyVisits": 49,
+    "surgeries": 13,
+    "revenue": 125112,
+    "expenses": 85187
+  },
+  {
+    "date": "2025-04-22",
+    "newAdmissions": 8,
+    "discharges": 17,
+    "emergencyVisits": 49,
+    "surgeries": 11,
+    "revenue": 68156,
+    "expenses": 43397
+  },
+  {
+    "date": "2025-04-23",
+    "newAdmissions": 8,
+    "discharges": 16,
+    "emergencyVisits": 37,
+    "surgeries": 6,
+    "revenue": 80374,
+    "expenses": 65902
+  },
+  {
+    "date": "2025-04-24",
+    "newAdmissions": 16,
+    "discharges": 12,
+    "emergencyVisits": 48,
+    "surgeries": 12,
+    "revenue": 86314,
+    "expenses": 61057
+  },
+  {
+    "date": "2025-04-25",
+    "newAdmissions": 22,
+    "discharges": 20,
+    "emergencyVisits": 47,
+    "surgeries": 6,
+    "revenue": 120232,
+    "expenses": 86075
+  },
+  {
+    "date": "2025-04-26",
+    "newAdmissions": 21,
+    "discharges": 14,
+    "emergencyVisits": 21,
+    "surgeries": 9,
+    "revenue": 79721,
+    "expenses": 110370
+  },
+  {
+    "date": "2025-04-27",
+    "newAdmissions": 24,
+    "discharges": 7,
+    "emergencyVisits": 37,
+    "surgeries": 12,
+    "revenue": 103657,
+    "expenses": 106607
+  },
+  {
+    "date": "2025-04-28",
+    "newAdmissions": 19,
+    "discharges": 6,
+    "emergencyVisits": 55,
+    "surgeries": 6,
+    "revenue": 107218,
+    "expenses": 85127
+  },
+  {
+    "date": "2025-04-29",
+    "newAdmissions": 13,
+    "discharges": 16,
+    "emergencyVisits": 29,
+    "surgeries": 10,
+    "revenue": 112641,
+    "expenses": 55888
+  },
+  {
+    "date": "2025-04-30",
+    "newAdmissions": 15,
+    "discharges": 18,
+    "emergencyVisits": 60,
+    "surgeries": 11,
+    "revenue": 59042,
+    "expenses": 40093
+  }
+]

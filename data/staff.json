@@ -1,0 +1,1802 @@
+[
+  {
+    "staffId": "S1000",
+    "department": "Oncology",
+    "role": "Administrative",
+    "yearsOfService": 0,
+    "salary": 50000,
+    "patientsHandled": 0,
+    "performanceScore": 0.76
+  },
+  {
+    "staffId": "S1001",
+    "department": "Surgery",
+    "role": "Support",
+    "yearsOfService": 5,
+    "salary": 52800,
+    "patientsHandled": 0,
+    "performanceScore": 0.7
+  },
+  {
+    "staffId": "S1002",
+    "department": "Cardiology",
+    "role": "Support",
+    "yearsOfService": 2,
+    "salary": 49920,
+    "patientsHandled": 0,
+    "performanceScore": 0.84
+  },
+  {
+    "staffId": "S1003",
+    "department": "Pediatrics",
+    "role": "Doctor",
+    "yearsOfService": 25,
+    "salary": 180000,
+    "patientsHandled": 22,
+    "performanceScore": 0.76
+  },
+  {
+    "staffId": "S1004",
+    "department": "Neurology",
+    "role": "Administrative",
+    "yearsOfService": 1,
+    "salary": 51000,
+    "patientsHandled": 0,
+    "performanceScore": 0.83
+  },
+  {
+    "staffId": "S1005",
+    "department": "Surgery",
+    "role": "Doctor",
+    "yearsOfService": 15,
+    "salary": 187200,
+    "patientsHandled": 20,
+    "performanceScore": 0.85
+  },
+  {
+    "staffId": "S1006",
+    "department": "Administration",
+    "role": "Nurse",
+    "yearsOfService": 9,
+    "salary": 82600,
+    "patientsHandled": 22,
+    "performanceScore": 0.75
+  },
+  {
+    "staffId": "S1007",
+    "department": "Surgery",
+    "role": "Nurse",
+    "yearsOfService": 17,
+    "salary": 112560,
+    "patientsHandled": 29,
+    "performanceScore": 0.85
+  },
+  {
+    "staffId": "S1008",
+    "department": "Cardiology",
+    "role": "Administrative",
+    "yearsOfService": 24,
+    "salary": 88800,
+    "patientsHandled": 0,
+    "performanceScore": 0.82
+  },
+  {
+    "staffId": "S1009",
+    "department": "Pediatrics",
+    "role": "Technician",
+    "yearsOfService": 5,
+    "salary": 66000,
+    "patientsHandled": 0,
+    "performanceScore": 0.82
+  },
+  {
+    "staffId": "S1010",
+    "department": "Pediatrics",
+    "role": "Technician",
+    "yearsOfService": 0,
+    "salary": 60000,
+    "patientsHandled": 0,
+    "performanceScore": 0.81
+  },
+  {
+    "staffId": "S1011",
+    "department": "Pediatrics",
+    "role": "Doctor",
+    "yearsOfService": 30,
+    "salary": 192000,
+    "patientsHandled": 28,
+    "performanceScore": 0.72
+  },
+  {
+    "staffId": "S1012",
+    "department": "Cardiology",
+    "role": "Support",
+    "yearsOfService": 25,
+    "salary": 72000,
+    "patientsHandled": 0,
+    "performanceScore": 1.0
+  },
+  {
+    "staffId": "S1013",
+    "department": "Pediatrics",
+    "role": "Technician",
+    "yearsOfService": 12,
+    "salary": 74400,
+    "patientsHandled": 0,
+    "performanceScore": 0.8
+  },
+  {
+    "staffId": "S1014",
+    "department": "Pediatrics",
+    "role": "Nurse",
+    "yearsOfService": 17,
+    "salary": 93800,
+    "patientsHandled": 68,
+    "performanceScore": 0.94
+  },
+  {
+    "staffId": "S1015",
+    "department": "Pediatrics",
+    "role": "Support",
+    "yearsOfService": 4,
+    "salary": 43200,
+    "patientsHandled": 0,
+    "performanceScore": 0.97
+  },
+  {
+    "staffId": "S1016",
+    "department": "Surgery",
+    "role": "Doctor",
+    "yearsOfService": 21,
+    "salary": 204480,
+    "patientsHandled": 22,
+    "performanceScore": 0.77
+  },
+  {
+    "staffId": "S1017",
+    "department": "Cardiology",
+    "role": "Nurse",
+    "yearsOfService": 22,
+    "salary": 120960,
+    "patientsHandled": 54,
+    "performanceScore": 0.82
+  },
+  {
+    "staffId": "S1018",
+    "department": "Administration",
+    "role": "Doctor",
+    "yearsOfService": 24,
+    "salary": 177600,
+    "patientsHandled": 11,
+    "performanceScore": 0.89
+  },
+  {
+    "staffId": "S1019",
+    "department": "Cardiology",
+    "role": "Administrative",
+    "yearsOfService": 27,
+    "salary": 92400,
+    "patientsHandled": 0,
+    "performanceScore": 0.79
+  },
+  {
+    "staffId": "S1020",
+    "department": "Administration",
+    "role": "Support",
+    "yearsOfService": 6,
+    "salary": 44800,
+    "patientsHandled": 0,
+    "performanceScore": 0.75
+  },
+  {
+    "staffId": "S1021",
+    "department": "Emergency",
+    "role": "Doctor",
+    "yearsOfService": 15,
+    "salary": 156000,
+    "patientsHandled": 12,
+    "performanceScore": 0.82
+  },
+  {
+    "staffId": "S1022",
+    "department": "Cardiology",
+    "role": "Doctor",
+    "yearsOfService": 13,
+    "salary": 181440,
+    "patientsHandled": 86,
+    "performanceScore": 0.91
+  },
+  {
+    "staffId": "S1023",
+    "department": "Oncology",
+    "role": "Doctor",
+    "yearsOfService": 0,
+    "salary": 120000,
+    "patientsHandled": 96,
+    "performanceScore": 0.99
+  },
+  {
+    "staffId": "S1024",
+    "department": "Cardiology",
+    "role": "Nurse",
+    "yearsOfService": 23,
+    "salary": 122640,
+    "patientsHandled": 50,
+    "performanceScore": 0.85
+  },
+  {
+    "staffId": "S1025",
+    "department": "Surgery",
+    "role": "Support",
+    "yearsOfService": 11,
+    "salary": 58560,
+    "patientsHandled": 0,
+    "performanceScore": 0.94
+  },
+  {
+    "staffId": "S1026",
+    "department": "Surgery",
+    "role": "Support",
+    "yearsOfService": 14,
+    "salary": 61440,
+    "patientsHandled": 0,
+    "performanceScore": 0.9
+  },
+  {
+    "staffId": "S1027",
+    "department": "Oncology",
+    "role": "Administrative",
+    "yearsOfService": 20,
+    "salary": 70000,
+    "patientsHandled": 0,
+    "performanceScore": 0.96
+  },
+  {
+    "staffId": "S1028",
+    "department": "Emergency",
+    "role": "Technician",
+    "yearsOfService": 19,
+    "salary": 82800,
+    "patientsHandled": 0,
+    "performanceScore": 0.77
+  },
+  {
+    "staffId": "S1029",
+    "department": "Pediatrics",
+    "role": "Doctor",
+    "yearsOfService": 15,
+    "salary": 156000,
+    "patientsHandled": 67,
+    "performanceScore": 0.95
+  },
+  {
+    "staffId": "S1030",
+    "department": "Surgery",
+    "role": "Doctor",
+    "yearsOfService": 16,
+    "salary": 190080,
+    "patientsHandled": 60,
+    "performanceScore": 0.95
+  },
+  {
+    "staffId": "S1031",
+    "department": "Cardiology",
+    "role": "Support",
+    "yearsOfService": 2,
+    "salary": 49920,
+    "patientsHandled": 0,
+    "performanceScore": 0.84
+  },
+  {
+    "staffId": "S1032",
+    "department": "Oncology",
+    "role": "Technician",
+    "yearsOfService": 22,
+    "salary": 86400,
+    "patientsHandled": 0,
+    "performanceScore": 0.93
+  },
+  {
+    "staffId": "S1033",
+    "department": "Pediatrics",
+    "role": "Administrative",
+    "yearsOfService": 18,
+    "salary": 68000,
+    "patientsHandled": 0,
+    "performanceScore": 0.74
+  },
+  {
+    "staffId": "S1034",
+    "department": "Cardiology",
+    "role": "Technician",
+    "yearsOfService": 23,
+    "salary": 105120,
+    "patientsHandled": 0,
+    "performanceScore": 0.72
+  },
+  {
+    "staffId": "S1035",
+    "department": "Emergency",
+    "role": "Doctor",
+    "yearsOfService": 10,
+    "salary": 144000,
+    "patientsHandled": 53,
+    "performanceScore": 0.78
+  },
+  {
+    "staffId": "S1036",
+    "department": "Cardiology",
+    "role": "Nurse",
+    "yearsOfService": 15,
+    "salary": 109200,
+    "patientsHandled": 91,
+    "performanceScore": 0.9
+  },
+  {
+    "staffId": "S1037",
+    "department": "Emergency",
+    "role": "Administrative",
+    "yearsOfService": 16,
+    "salary": 66000,
+    "patientsHandled": 0,
+    "performanceScore": 0.76
+  },
+  {
+    "staffId": "S1038",
+    "department": "Surgery",
+    "role": "Doctor",
+    "yearsOfService": 7,
+    "salary": 164160,
+    "patientsHandled": 58,
+    "performanceScore": 0.84
+  },
+  {
+    "staffId": "S1039",
+    "department": "Oncology",
+    "role": "Nurse",
+    "yearsOfService": 10,
+    "salary": 84000,
+    "patientsHandled": 32,
+    "performanceScore": 0.78
+  },
+  {
+    "staffId": "S1040",
+    "department": "Pediatrics",
+    "role": "Technician",
+    "yearsOfService": 21,
+    "salary": 85200,
+    "patientsHandled": 0,
+    "performanceScore": 0.73
+  },
+  {
+    "staffId": "S1041",
+    "department": "Neurology",
+    "role": "Doctor",
+    "yearsOfService": 11,
+    "salary": 146400,
+    "patientsHandled": 41,
+    "performanceScore": 0.72
+  },
+  {
+    "staffId": "S1042",
+    "department": "Oncology",
+    "role": "Nurse",
+    "yearsOfService": 30,
+    "salary": 112000,
+    "patientsHandled": 40,
+    "performanceScore": 0.81
+  },
+  {
+    "staffId": "S1043",
+    "department": "Cardiology",
+    "role": "Doctor",
+    "yearsOfService": 11,
+    "salary": 175680,
+    "patientsHandled": 82,
+    "performanceScore": 0.77
+  },
+  {
+    "staffId": "S1044",
+    "department": "Emergency",
+    "role": "Technician",
+    "yearsOfService": 21,
+    "salary": 85200,
+    "patientsHandled": 0,
+    "performanceScore": 0.89
+  },
+  {
+    "staffId": "S1045",
+    "department": "Neurology",
+    "role": "Administrative",
+    "yearsOfService": 16,
+    "salary": 66000,
+    "patientsHandled": 0,
+    "performanceScore": 0.87
+  },
+  {
+    "staffId": "S1046",
+    "department": "Surgery",
+    "role": "Technician",
+    "yearsOfService": 13,
+    "salary": 90720,
+    "patientsHandled": 0,
+    "performanceScore": 0.82
+  },
+  {
+    "staffId": "S1047",
+    "department": "Surgery",
+    "role": "Nurse",
+    "yearsOfService": 3,
+    "salary": 89040,
+    "patientsHandled": 34,
+    "performanceScore": 0.73
+  },
+  {
+    "staffId": "S1048",
+    "department": "Cardiology",
+    "role": "Nurse",
+    "yearsOfService": 0,
+    "salary": 84000,
+    "patientsHandled": 35,
+    "performanceScore": 0.89
+  },
+  {
+    "staffId": "S1049",
+    "department": "Cardiology",
+    "role": "Nurse",
+    "yearsOfService": 29,
+    "salary": 132720,
+    "patientsHandled": 73,
+    "performanceScore": 0.79
+  },
+  {
+    "staffId": "S1050",
+    "department": "Oncology",
+    "role": "Support",
+    "yearsOfService": 24,
+    "salary": 59200,
+    "patientsHandled": 0,
+    "performanceScore": 0.9
+  },
+  {
+    "staffId": "S1051",
+    "department": "Neurology",
+    "role": "Administrative",
+    "yearsOfService": 19,
+    "salary": 69000,
+    "patientsHandled": 0,
+    "performanceScore": 0.72
+  },
+  {
+    "staffId": "S1052",
+    "department": "Neurology",
+    "role": "Administrative",
+    "yearsOfService": 0,
+    "salary": 50000,
+    "patientsHandled": 0,
+    "performanceScore": 0.9
+  },
+  {
+    "staffId": "S1053",
+    "department": "Cardiology",
+    "role": "Support",
+    "yearsOfService": 14,
+    "salary": 61440,
+    "patientsHandled": 0,
+    "performanceScore": 0.93
+  },
+  {
+    "staffId": "S1054",
+    "department": "Pediatrics",
+    "role": "Administrative",
+    "yearsOfService": 30,
+    "salary": 80000,
+    "patientsHandled": 0,
+    "performanceScore": 0.97
+  },
+  {
+    "staffId": "S1055",
+    "department": "Administration",
+    "role": "Technician",
+    "yearsOfService": 24,
+    "salary": 88800,
+    "patientsHandled": 0,
+    "performanceScore": 0.75
+  },
+  {
+    "staffId": "S1056",
+    "department": "Neurology",
+    "role": "Nurse",
+    "yearsOfService": 11,
+    "salary": 85400,
+    "patientsHandled": 22,
+    "performanceScore": 0.79
+  },
+  {
+    "staffId": "S1057",
+    "department": "Emergency",
+    "role": "Administrative",
+    "yearsOfService": 5,
+    "salary": 55000,
+    "patientsHandled": 0,
+    "performanceScore": 0.95
+  },
+  {
+    "staffId": "S1058",
+    "department": "Cardiology",
+    "role": "Doctor",
+    "yearsOfService": 4,
+    "salary": 155520,
+    "patientsHandled": 48,
+    "performanceScore": 0.8
+  },
+  {
+    "staffId": "S1059",
+    "department": "Surgery",
+    "role": "Administrative",
+    "yearsOfService": 18,
+    "salary": 81600,
+    "patientsHandled": 0,
+    "performanceScore": 0.9
+  },
+  {
+    "staffId": "S1060",
+    "department": "Surgery",
+    "role": "Administrative",
+    "yearsOfService": 14,
+    "salary": 76800,
+    "patientsHandled": 0,
+    "performanceScore": 0.8
+  },
+  {
+    "staffId": "S1061",
+    "department": "Emergency",
+    "role": "Nurse",
+    "yearsOfService": 20,
+    "salary": 98000,
+    "patientsHandled": 29,
+    "performanceScore": 0.9
+  },
+  {
+    "staffId": "S1062",
+    "department": "Emergency",
+    "role": "Nurse",
+    "yearsOfService": 24,
+    "salary": 103600,
+    "patientsHandled": 74,
+    "performanceScore": 0.99
+  },
+  {
+    "staffId": "S1063",
+    "department": "Cardiology",
+    "role": "Administrative",
+    "yearsOfService": 18,
+    "salary": 81600,
+    "patientsHandled": 0,
+    "performanceScore": 0.97
+  },
+  {
+    "staffId": "S1064",
+    "department": "Surgery",
+    "role": "Technician",
+    "yearsOfService": 29,
+    "salary": 113760,
+    "patientsHandled": 0,
+    "performanceScore": 0.94
+  },
+  {
+    "staffId": "S1065",
+    "department": "Administration",
+    "role": "Doctor",
+    "yearsOfService": 10,
+    "salary": 144000,
+    "patientsHandled": 58,
+    "performanceScore": 0.97
+  },
+  {
+    "staffId": "S1066",
+    "department": "Administration",
+    "role": "Nurse",
+    "yearsOfService": 9,
+    "salary": 82600,
+    "patientsHandled": 47,
+    "performanceScore": 0.72
+  },
+  {
+    "staffId": "S1067",
+    "department": "Cardiology",
+    "role": "Nurse",
+    "yearsOfService": 15,
+    "salary": 109200,
+    "patientsHandled": 71,
+    "performanceScore": 0.81
+  },
+  {
+    "staffId": "S1068",
+    "department": "Administration",
+    "role": "Technician",
+    "yearsOfService": 7,
+    "salary": 68400,
+    "patientsHandled": 0,
+    "performanceScore": 0.94
+  },
+  {
+    "staffId": "S1069",
+    "department": "Administration",
+    "role": "Support",
+    "yearsOfService": 23,
+    "salary": 58400,
+    "patientsHandled": 0,
+    "performanceScore": 0.74
+  },
+  {
+    "staffId": "S1070",
+    "department": "Emergency",
+    "role": "Nurse",
+    "yearsOfService": 5,
+    "salary": 77000,
+    "patientsHandled": 40,
+    "performanceScore": 0.73
+  },
+  {
+    "staffId": "S1071",
+    "department": "Cardiology",
+    "role": "Administrative",
+    "yearsOfService": 13,
+    "salary": 75600,
+    "patientsHandled": 0,
+    "performanceScore": 0.75
+  },
+  {
+    "staffId": "S1072",
+    "department": "Emergency",
+    "role": "Administrative",
+    "yearsOfService": 5,
+    "salary": 55000,
+    "patientsHandled": 0,
+    "performanceScore": 0.79
+  },
+  {
+    "staffId": "S1073",
+    "department": "Pediatrics",
+    "role": "Support",
+    "yearsOfService": 9,
+    "salary": 47200,
+    "patientsHandled": 0,
+    "performanceScore": 0.76
+  },
+  {
+    "staffId": "S1074",
+    "department": "Pediatrics",
+    "role": "Doctor",
+    "yearsOfService": 0,
+    "salary": 120000,
+    "patientsHandled": 98,
+    "performanceScore": 0.72
+  },
+  {
+    "staffId": "S1075",
+    "department": "Neurology",
+    "role": "Nurse",
+    "yearsOfService": 15,
+    "salary": 91000,
+    "patientsHandled": 28,
+    "performanceScore": 0.71
+  },
+  {
+    "staffId": "S1076",
+    "department": "Emergency",
+    "role": "Technician",
+    "yearsOfService": 25,
+    "salary": 90000,
+    "patientsHandled": 0,
+    "performanceScore": 0.73
+  },
+  {
+    "staffId": "S1077",
+    "department": "Oncology",
+    "role": "Nurse",
+    "yearsOfService": 10,
+    "salary": 84000,
+    "patientsHandled": 58,
+    "performanceScore": 0.99
+  },
+  {
+    "staffId": "S1078",
+    "department": "Pediatrics",
+    "role": "Technician",
+    "yearsOfService": 1,
+    "salary": 61200,
+    "patientsHandled": 0,
+    "performanceScore": 0.76
+  },
+  {
+    "staffId": "S1079",
+    "department": "Neurology",
+    "role": "Nurse",
+    "yearsOfService": 4,
+    "salary": 75600,
+    "patientsHandled": 53,
+    "performanceScore": 0.97
+  },
+  {
+    "staffId": "S1080",
+    "department": "Oncology",
+    "role": "Administrative",
+    "yearsOfService": 15,
+    "salary": 65000,
+    "patientsHandled": 0,
+    "performanceScore": 0.78
+  },
+  {
+    "staffId": "S1081",
+    "department": "Surgery",
+    "role": "Technician",
+    "yearsOfService": 15,
+    "salary": 93600,
+    "patientsHandled": 0,
+    "performanceScore": 0.97
+  },
+  {
+    "staffId": "S1082",
+    "department": "Emergency",
+    "role": "Support",
+    "yearsOfService": 1,
+    "salary": 40800,
+    "patientsHandled": 0,
+    "performanceScore": 0.72
+  },
+  {
+    "staffId": "S1083",
+    "department": "Administration",
+    "role": "Administrative",
+    "yearsOfService": 5,
+    "salary": 55000,
+    "patientsHandled": 0,
+    "performanceScore": 0.93
+  },
+  {
+    "staffId": "S1084",
+    "department": "Neurology",
+    "role": "Support",
+    "yearsOfService": 26,
+    "salary": 60800,
+    "patientsHandled": 0,
+    "performanceScore": 0.77
+  },
+  {
+    "staffId": "S1085",
+    "department": "Emergency",
+    "role": "Doctor",
+    "yearsOfService": 30,
+    "salary": 192000,
+    "patientsHandled": 50,
+    "performanceScore": 0.94
+  },
+  {
+    "staffId": "S1086",
+    "department": "Cardiology",
+    "role": "Technician",
+    "yearsOfService": 17,
+    "salary": 96480,
+    "patientsHandled": 0,
+    "performanceScore": 0.75
+  },
+  {
+    "staffId": "S1087",
+    "department": "Surgery",
+    "role": "Administrative",
+    "yearsOfService": 1,
+    "salary": 61200,
+    "patientsHandled": 0,
+    "performanceScore": 1.0
+  },
+  {
+    "staffId": "S1088",
+    "department": "Emergency",
+    "role": "Administrative",
+    "yearsOfService": 1,
+    "salary": 51000,
+    "patientsHandled": 0,
+    "performanceScore": 0.98
+  },
+  {
+    "staffId": "S1089",
+    "department": "Emergency",
+    "role": "Nurse",
+    "yearsOfService": 23,
+    "salary": 102200,
+    "patientsHandled": 12,
+    "performanceScore": 0.71
+  },
+  {
+    "staffId": "S1090",
+    "department": "Neurology",
+    "role": "Technician",
+    "yearsOfService": 17,
+    "salary": 80400,
+    "patientsHandled": 0,
+    "performanceScore": 0.7
+  },
+  {
+    "staffId": "S1091",
+    "department": "Neurology",
+    "role": "Technician",
+    "yearsOfService": 10,
+    "salary": 72000,
+    "patientsHandled": 0,
+    "performanceScore": 0.97
+  },
+  {
+    "staffId": "S1092",
+    "department": "Administration",
+    "role": "Nurse",
+    "yearsOfService": 8,
+    "salary": 81200,
+    "patientsHandled": 16,
+    "performanceScore": 0.83
+  },
+  {
+    "staffId": "S1093",
+    "department": "Administration",
+    "role": "Support",
+    "yearsOfService": 14,
+    "salary": 51200,
+    "patientsHandled": 0,
+    "performanceScore": 0.75
+  },
+  {
+    "staffId": "S1094",
+    "department": "Administration",
+    "role": "Technician",
+    "yearsOfService": 18,
+    "salary": 81600,
+    "patientsHandled": 0,
+    "performanceScore": 0.91
+  },
+  {
+    "staffId": "S1095",
+    "department": "Neurology",
+    "role": "Doctor",
+    "yearsOfService": 16,
+    "salary": 158400,
+    "patientsHandled": 37,
+    "performanceScore": 0.79
+  },
+  {
+    "staffId": "S1096",
+    "department": "Oncology",
+    "role": "Administrative",
+    "yearsOfService": 13,
+    "salary": 63000,
+    "patientsHandled": 0,
+    "performanceScore": 0.88
+  },
+  {
+    "staffId": "S1097",
+    "department": "Surgery",
+    "role": "Doctor",
+    "yearsOfService": 22,
+    "salary": 207360,
+    "patientsHandled": 14,
+    "performanceScore": 1.0
+  },
+  {
+    "staffId": "S1098",
+    "department": "Pediatrics",
+    "role": "Administrative",
+    "yearsOfService": 28,
+    "salary": 78000,
+    "patientsHandled": 0,
+    "performanceScore": 0.9
+  },
+  {
+    "staffId": "S1099",
+    "department": "Pediatrics",
+    "role": "Doctor",
+    "yearsOfService": 19,
+    "salary": 165600,
+    "patientsHandled": 45,
+    "performanceScore": 0.89
+  },
+  {
+    "staffId": "S1100",
+    "department": "Surgery",
+    "role": "Administrative",
+    "yearsOfService": 11,
+    "salary": 73200,
+    "patientsHandled": 0,
+    "performanceScore": 0.84
+  },
+  {
+    "staffId": "S1101",
+    "department": "Cardiology",
+    "role": "Technician",
+    "yearsOfService": 29,
+    "salary": 113760,
+    "patientsHandled": 0,
+    "performanceScore": 0.85
+  },
+  {
+    "staffId": "S1102",
+    "department": "Surgery",
+    "role": "Technician",
+    "yearsOfService": 26,
+    "salary": 109440,
+    "patientsHandled": 0,
+    "performanceScore": 0.73
+  },
+  {
+    "staffId": "S1103",
+    "department": "Administration",
+    "role": "Technician",
+    "yearsOfService": 9,
+    "salary": 70800,
+    "patientsHandled": 0,
+    "performanceScore": 0.81
+  },
+  {
+    "staffId": "S1104",
+    "department": "Pediatrics",
+    "role": "Administrative",
+    "yearsOfService": 25,
+    "salary": 75000,
+    "patientsHandled": 0,
+    "performanceScore": 0.92
+  },
+  {
+    "staffId": "S1105",
+    "department": "Administration",
+    "role": "Technician",
+    "yearsOfService": 10,
+    "salary": 72000,
+    "patientsHandled": 0,
+    "performanceScore": 0.85
+  },
+  {
+    "staffId": "S1106",
+    "department": "Emergency",
+    "role": "Doctor",
+    "yearsOfService": 28,
+    "salary": 187200,
+    "patientsHandled": 32,
+    "performanceScore": 0.86
+  },
+  {
+    "staffId": "S1107",
+    "department": "Emergency",
+    "role": "Support",
+    "yearsOfService": 22,
+    "salary": 57600,
+    "patientsHandled": 0,
+    "performanceScore": 0.91
+  },
+  {
+    "staffId": "S1108",
+    "department": "Pediatrics",
+    "role": "Doctor",
+    "yearsOfService": 16,
+    "salary": 158400,
+    "patientsHandled": 53,
+    "performanceScore": 0.99
+  },
+  {
+    "staffId": "S1109",
+    "department": "Surgery",
+    "role": "Nurse",
+    "yearsOfService": 7,
+    "salary": 95760,
+    "patientsHandled": 56,
+    "performanceScore": 0.72
+  },
+  {
+    "staffId": "S1110",
+    "department": "Pediatrics",
+    "role": "Doctor",
+    "yearsOfService": 25,
+    "salary": 180000,
+    "patientsHandled": 61,
+    "performanceScore": 0.88
+  },
+  {
+    "staffId": "S1111",
+    "department": "Cardiology",
+    "role": "Technician",
+    "yearsOfService": 19,
+    "salary": 99360,
+    "patientsHandled": 0,
+    "performanceScore": 0.91
+  },
+  {
+    "staffId": "S1112",
+    "department": "Oncology",
+    "role": "Support",
+    "yearsOfService": 26,
+    "salary": 60800,
+    "patientsHandled": 0,
+    "performanceScore": 0.84
+  },
+  {
+    "staffId": "S1113",
+    "department": "Oncology",
+    "role": "Nurse",
+    "yearsOfService": 9,
+    "salary": 82600,
+    "patientsHandled": 87,
+    "performanceScore": 0.77
+  },
+  {
+    "staffId": "S1114",
+    "department": "Oncology",
+    "role": "Technician",
+    "yearsOfService": 20,
+    "salary": 84000,
+    "patientsHandled": 0,
+    "performanceScore": 0.77
+  },
+  {
+    "staffId": "S1115",
+    "department": "Administration",
+    "role": "Administrative",
+    "yearsOfService": 21,
+    "salary": 71000,
+    "patientsHandled": 0,
+    "performanceScore": 0.91
+  },
+  {
+    "staffId": "S1116",
+    "department": "Administration",
+    "role": "Support",
+    "yearsOfService": 18,
+    "salary": 54400,
+    "patientsHandled": 0,
+    "performanceScore": 0.73
+  },
+  {
+    "staffId": "S1117",
+    "department": "Neurology",
+    "role": "Administrative",
+    "yearsOfService": 14,
+    "salary": 64000,
+    "patientsHandled": 0,
+    "performanceScore": 0.82
+  },
+  {
+    "staffId": "S1118",
+    "department": "Pediatrics",
+    "role": "Nurse",
+    "yearsOfService": 17,
+    "salary": 93800,
+    "patientsHandled": 29,
+    "performanceScore": 0.85
+  },
+  {
+    "staffId": "S1119",
+    "department": "Cardiology",
+    "role": "Nurse",
+    "yearsOfService": 6,
+    "salary": 94080,
+    "patientsHandled": 47,
+    "performanceScore": 0.86
+  },
+  {
+    "staffId": "S1120",
+    "department": "Pediatrics",
+    "role": "Administrative",
+    "yearsOfService": 23,
+    "salary": 73000,
+    "patientsHandled": 0,
+    "performanceScore": 0.76
+  },
+  {
+    "staffId": "S1121",
+    "department": "Administration",
+    "role": "Support",
+    "yearsOfService": 14,
+    "salary": 51200,
+    "patientsHandled": 0,
+    "performanceScore": 0.91
+  },
+  {
+    "staffId": "S1122",
+    "department": "Surgery",
+    "role": "Administrative",
+    "yearsOfService": 11,
+    "salary": 73200,
+    "patientsHandled": 0,
+    "performanceScore": 0.76
+  },
+  {
+    "staffId": "S1123",
+    "department": "Emergency",
+    "role": "Support",
+    "yearsOfService": 20,
+    "salary": 56000,
+    "patientsHandled": 0,
+    "performanceScore": 0.94
+  },
+  {
+    "staffId": "S1124",
+    "department": "Cardiology",
+    "role": "Nurse",
+    "yearsOfService": 21,
+    "salary": 119280,
+    "patientsHandled": 71,
+    "performanceScore": 0.7
+  },
+  {
+    "staffId": "S1125",
+    "department": "Oncology",
+    "role": "Administrative",
+    "yearsOfService": 17,
+    "salary": 67000,
+    "patientsHandled": 0,
+    "performanceScore": 0.76
+  },
+  {
+    "staffId": "S1126",
+    "department": "Emergency",
+    "role": "Administrative",
+    "yearsOfService": 14,
+    "salary": 64000,
+    "patientsHandled": 0,
+    "performanceScore": 0.91
+  },
+  {
+    "staffId": "S1127",
+    "department": "Pediatrics",
+    "role": "Support",
+    "yearsOfService": 26,
+    "salary": 60800,
+    "patientsHandled": 0,
+    "performanceScore": 0.89
+  },
+  {
+    "staffId": "S1128",
+    "department": "Administration",
+    "role": "Administrative",
+    "yearsOfService": 29,
+    "salary": 79000,
+    "patientsHandled": 0,
+    "performanceScore": 1.0
+  },
+  {
+    "staffId": "S1129",
+    "department": "Oncology",
+    "role": "Support",
+    "yearsOfService": 20,
+    "salary": 56000,
+    "patientsHandled": 0,
+    "performanceScore": 0.88
+  },
+  {
+    "staffId": "S1130",
+    "department": "Neurology",
+    "role": "Nurse",
+    "yearsOfService": 3,
+    "salary": 74200,
+    "patientsHandled": 20,
+    "performanceScore": 0.77
+  },
+  {
+    "staffId": "S1131",
+    "department": "Surgery",
+    "role": "Technician",
+    "yearsOfService": 23,
+    "salary": 105120,
+    "patientsHandled": 0,
+    "performanceScore": 0.76
+  },
+  {
+    "staffId": "S1132",
+    "department": "Oncology",
+    "role": "Technician",
+    "yearsOfService": 4,
+    "salary": 64800,
+    "patientsHandled": 0,
+    "performanceScore": 0.96
+  },
+  {
+    "staffId": "S1133",
+    "department": "Oncology",
+    "role": "Administrative",
+    "yearsOfService": 28,
+    "salary": 78000,
+    "patientsHandled": 0,
+    "performanceScore": 1.0
+  },
+  {
+    "staffId": "S1134",
+    "department": "Surgery",
+    "role": "Technician",
+    "yearsOfService": 7,
+    "salary": 82080,
+    "patientsHandled": 0,
+    "performanceScore": 0.75
+  },
+  {
+    "staffId": "S1135",
+    "department": "Surgery",
+    "role": "Administrative",
+    "yearsOfService": 23,
+    "salary": 87600,
+    "patientsHandled": 0,
+    "performanceScore": 0.7
+  },
+  {
+    "staffId": "S1136",
+    "department": "Oncology",
+    "role": "Doctor",
+    "yearsOfService": 28,
+    "salary": 187200,
+    "patientsHandled": 58,
+    "performanceScore": 0.8
+  },
+  {
+    "staffId": "S1137",
+    "department": "Pediatrics",
+    "role": "Nurse",
+    "yearsOfService": 2,
+    "salary": 72800,
+    "patientsHandled": 59,
+    "performanceScore": 0.82
+  },
+  {
+    "staffId": "S1138",
+    "department": "Oncology",
+    "role": "Technician",
+    "yearsOfService": 4,
+    "salary": 64800,
+    "patientsHandled": 0,
+    "performanceScore": 0.89
+  },
+  {
+    "staffId": "S1139",
+    "department": "Emergency",
+    "role": "Technician",
+    "yearsOfService": 5,
+    "salary": 66000,
+    "patientsHandled": 0,
+    "performanceScore": 0.97
+  },
+  {
+    "staffId": "S1140",
+    "department": "Oncology",
+    "role": "Doctor",
+    "yearsOfService": 9,
+    "salary": 141600,
+    "patientsHandled": 11,
+    "performanceScore": 0.88
+  },
+  {
+    "staffId": "S1141",
+    "department": "Neurology",
+    "role": "Nurse",
+    "yearsOfService": 27,
+    "salary": 107800,
+    "patientsHandled": 32,
+    "performanceScore": 0.93
+  },
+  {
+    "staffId": "S1142",
+    "department": "Administration",
+    "role": "Technician",
+    "yearsOfService": 30,
+    "salary": 96000,
+    "patientsHandled": 0,
+    "performanceScore": 0.97
+  },
+  {
+    "staffId": "S1143",
+    "department": "Pediatrics",
+    "role": "Technician",
+    "yearsOfService": 28,
+    "salary": 93600,
+    "patientsHandled": 0,
+    "performanceScore": 0.78
+  },
+  {
+    "staffId": "S1144",
+    "department": "Surgery",
+    "role": "Doctor",
+    "yearsOfService": 11,
+    "salary": 175680,
+    "patientsHandled": 79,
+    "performanceScore": 0.95
+  },
+  {
+    "staffId": "S1145",
+    "department": "Neurology",
+    "role": "Nurse",
+    "yearsOfService": 12,
+    "salary": 86800,
+    "patientsHandled": 42,
+    "performanceScore": 0.88
+  },
+  {
+    "staffId": "S1146",
+    "department": "Emergency",
+    "role": "Support",
+    "yearsOfService": 28,
+    "salary": 62400,
+    "patientsHandled": 0,
+    "performanceScore": 0.87
+  },
+  {
+    "staffId": "S1147",
+    "department": "Emergency",
+    "role": "Support",
+    "yearsOfService": 15,
+    "salary": 52000,
+    "patientsHandled": 0,
+    "performanceScore": 0.94
+  },
+  {
+    "staffId": "S1148",
+    "department": "Emergency",
+    "role": "Doctor",
+    "yearsOfService": 27,
+    "salary": 184800,
+    "patientsHandled": 65,
+    "performanceScore": 0.86
+  },
+  {
+    "staffId": "S1149",
+    "department": "Cardiology",
+    "role": "Nurse",
+    "yearsOfService": 22,
+    "salary": 120960,
+    "patientsHandled": 44,
+    "performanceScore": 0.91
+  },
+  {
+    "staffId": "S1150",
+    "department": "Emergency",
+    "role": "Technician",
+    "yearsOfService": 16,
+    "salary": 79200,
+    "patientsHandled": 0,
+    "performanceScore": 0.94
+  },
+  {
+    "staffId": "S1151",
+    "department": "Cardiology",
+    "role": "Nurse",
+    "yearsOfService": 3,
+    "salary": 89040,
+    "patientsHandled": 37,
+    "performanceScore": 0.87
+  },
+  {
+    "staffId": "S1152",
+    "department": "Cardiology",
+    "role": "Nurse",
+    "yearsOfService": 13,
+    "salary": 105840,
+    "patientsHandled": 20,
+    "performanceScore": 0.8
+  },
+  {
+    "staffId": "S1153",
+    "department": "Emergency",
+    "role": "Support",
+    "yearsOfService": 7,
+    "salary": 45600,
+    "patientsHandled": 0,
+    "performanceScore": 0.94
+  },
+  {
+    "staffId": "S1154",
+    "department": "Administration",
+    "role": "Administrative",
+    "yearsOfService": 13,
+    "salary": 63000,
+    "patientsHandled": 0,
+    "performanceScore": 0.88
+  },
+  {
+    "staffId": "S1155",
+    "department": "Emergency",
+    "role": "Administrative",
+    "yearsOfService": 17,
+    "salary": 67000,
+    "patientsHandled": 0,
+    "performanceScore": 0.93
+  },
+  {
+    "staffId": "S1156",
+    "department": "Surgery",
+    "role": "Doctor",
+    "yearsOfService": 14,
+    "salary": 184320,
+    "patientsHandled": 51,
+    "performanceScore": 0.96
+  },
+  {
+    "staffId": "S1157",
+    "department": "Administration",
+    "role": "Support",
+    "yearsOfService": 18,
+    "salary": 54400,
+    "patientsHandled": 0,
+    "performanceScore": 0.97
+  },
+  {
+    "staffId": "S1158",
+    "department": "Cardiology",
+    "role": "Support",
+    "yearsOfService": 14,
+    "salary": 61440,
+    "patientsHandled": 0,
+    "performanceScore": 0.84
+  },
+  {
+    "staffId": "S1159",
+    "department": "Oncology",
+    "role": "Administrative",
+    "yearsOfService": 3,
+    "salary": 53000,
+    "patientsHandled": 0,
+    "performanceScore": 0.96
+  },
+  {
+    "staffId": "S1160",
+    "department": "Oncology",
+    "role": "Nurse",
+    "yearsOfService": 8,
+    "salary": 81200,
+    "patientsHandled": 45,
+    "performanceScore": 0.95
+  },
+  {
+    "staffId": "S1161",
+    "department": "Neurology",
+    "role": "Doctor",
+    "yearsOfService": 5,
+    "salary": 132000,
+    "patientsHandled": 98,
+    "performanceScore": 0.95
+  },
+  {
+    "staffId": "S1162",
+    "department": "Administration",
+    "role": "Technician",
+    "yearsOfService": 16,
+    "salary": 79200,
+    "patientsHandled": 0,
+    "performanceScore": 0.9
+  },
+  {
+    "staffId": "S1163",
+    "department": "Oncology",
+    "role": "Doctor",
+    "yearsOfService": 23,
+    "salary": 175200,
+    "patientsHandled": 92,
+    "performanceScore": 0.82
+  },
+  {
+    "staffId": "S1164",
+    "department": "Cardiology",
+    "role": "Doctor",
+    "yearsOfService": 23,
+    "salary": 210240,
+    "patientsHandled": 29,
+    "performanceScore": 0.86
+  },
+  {
+    "staffId": "S1165",
+    "department": "Emergency",
+    "role": "Support",
+    "yearsOfService": 5,
+    "salary": 44000,
+    "patientsHandled": 0,
+    "performanceScore": 0.76
+  },
+  {
+    "staffId": "S1166",
+    "department": "Pediatrics",
+    "role": "Nurse",
+    "yearsOfService": 17,
+    "salary": 93800,
+    "patientsHandled": 53,
+    "performanceScore": 0.95
+  },
+  {
+    "staffId": "S1167",
+    "department": "Cardiology",
+    "role": "Nurse",
+    "yearsOfService": 1,
+    "salary": 85680,
+    "patientsHandled": 90,
+    "performanceScore": 0.98
+  },
+  {
+    "staffId": "S1168",
+    "department": "Oncology",
+    "role": "Support",
+    "yearsOfService": 5,
+    "salary": 44000,
+    "patientsHandled": 0,
+    "performanceScore": 0.71
+  },
+  {
+    "staffId": "S1169",
+    "department": "Neurology",
+    "role": "Administrative",
+    "yearsOfService": 11,
+    "salary": 61000,
+    "patientsHandled": 0,
+    "performanceScore": 0.84
+  },
+  {
+    "staffId": "S1170",
+    "department": "Pediatrics",
+    "role": "Administrative",
+    "yearsOfService": 19,
+    "salary": 69000,
+    "patientsHandled": 0,
+    "performanceScore": 0.98
+  },
+  {
+    "staffId": "S1171",
+    "department": "Cardiology",
+    "role": "Doctor",
+    "yearsOfService": 16,
+    "salary": 190080,
+    "patientsHandled": 15,
+    "performanceScore": 0.9
+  },
+  {
+    "staffId": "S1172",
+    "department": "Oncology",
+    "role": "Technician",
+    "yearsOfService": 26,
+    "salary": 91200,
+    "patientsHandled": 0,
+    "performanceScore": 0.82
+  },
+  {
+    "staffId": "S1173",
+    "department": "Neurology",
+    "role": "Support",
+    "yearsOfService": 6,
+    "salary": 44800,
+    "patientsHandled": 0,
+    "performanceScore": 0.8
+  },
+  {
+    "staffId": "S1174",
+    "department": "Neurology",
+    "role": "Support",
+    "yearsOfService": 20,
+    "salary": 56000,
+    "patientsHandled": 0,
+    "performanceScore": 0.79
+  },
+  {
+    "staffId": "S1175",
+    "department": "Cardiology",
+    "role": "Support",
+    "yearsOfService": 8,
+    "salary": 55680,
+    "patientsHandled": 0,
+    "performanceScore": 0.78
+  },
+  {
+    "staffId": "S1176",
+    "department": "Oncology",
+    "role": "Nurse",
+    "yearsOfService": 13,
+    "salary": 88200,
+    "patientsHandled": 94,
+    "performanceScore": 0.97
+  },
+  {
+    "staffId": "S1177",
+    "department": "Cardiology",
+    "role": "Nurse",
+    "yearsOfService": 5,
+    "salary": 92400,
+    "patientsHandled": 61,
+    "performanceScore": 0.78
+  },
+  {
+    "staffId": "S1178",
+    "department": "Administration",
+    "role": "Technician",
+    "yearsOfService": 21,
+    "salary": 85200,
+    "patientsHandled": 0,
+    "performanceScore": 0.73
+  },
+  {
+    "staffId": "S1179",
+    "department": "Neurology",
+    "role": "Support",
+    "yearsOfService": 19,
+    "salary": 55200,
+    "patientsHandled": 0,
+    "performanceScore": 0.71
+  },
+  {
+    "staffId": "S1180",
+    "department": "Emergency",
+    "role": "Administrative",
+    "yearsOfService": 0,
+    "salary": 50000,
+    "patientsHandled": 0,
+    "performanceScore": 0.94
+  },
+  {
+    "staffId": "S1181",
+    "department": "Neurology",
+    "role": "Support",
+    "yearsOfService": 30,
+    "salary": 64000,
+    "patientsHandled": 0,
+    "performanceScore": 0.75
+  },
+  {
+    "staffId": "S1182",
+    "department": "Neurology",
+    "role": "Administrative",
+    "yearsOfService": 0,
+    "salary": 50000,
+    "patientsHandled": 0,
+    "performanceScore": 0.84
+  },
+  {
+    "staffId": "S1183",
+    "department": "Neurology",
+    "role": "Support",
+    "yearsOfService": 24,
+    "salary": 59200,
+    "patientsHandled": 0,
+    "performanceScore": 0.92
+  },
+  {
+    "staffId": "S1184",
+    "department": "Pediatrics",
+    "role": "Doctor",
+    "yearsOfService": 15,
+    "salary": 156000,
+    "patientsHandled": 55,
+    "performanceScore": 0.77
+  },
+  {
+    "staffId": "S1185",
+    "department": "Surgery",
+    "role": "Nurse",
+    "yearsOfService": 29,
+    "salary": 132720,
+    "patientsHandled": 53,
+    "performanceScore": 0.79
+  },
+  {
+    "staffId": "S1186",
+    "department": "Neurology",
+    "role": "Administrative",
+    "yearsOfService": 10,
+    "salary": 60000,
+    "patientsHandled": 0,
+    "performanceScore": 0.85
+  },
+  {
+    "staffId": "S1187",
+    "department": "Administration",
+    "role": "Administrative",
+    "yearsOfService": 0,
+    "salary": 50000,
+    "patientsHandled": 0,
+    "performanceScore": 0.91
+  },
+  {
+    "staffId": "S1188",
+    "department": "Surgery",
+    "role": "Doctor",
+    "yearsOfService": 1,
+    "salary": 146880,
+    "patientsHandled": 13,
+    "performanceScore": 0.9
+  },
+  {
+    "staffId": "S1189",
+    "department": "Administration",
+    "role": "Nurse",
+    "yearsOfService": 21,
+    "salary": 99400,
+    "patientsHandled": 79,
+    "performanceScore": 0.73
+  },
+  {
+    "staffId": "S1190",
+    "department": "Surgery",
+    "role": "Technician",
+    "yearsOfService": 26,
+    "salary": 109440,
+    "patientsHandled": 0,
+    "performanceScore": 0.88
+  },
+  {
+    "staffId": "S1191",
+    "department": "Pediatrics",
+    "role": "Administrative",
+    "yearsOfService": 14,
+    "salary": 64000,
+    "patientsHandled": 0,
+    "performanceScore": 0.86
+  },
+  {
+    "staffId": "S1192",
+    "department": "Surgery",
+    "role": "Administrative",
+    "yearsOfService": 7,
+    "salary": 68400,
+    "patientsHandled": 0,
+    "performanceScore": 0.95
+  },
+  {
+    "staffId": "S1193",
+    "department": "Emergency",
+    "role": "Doctor",
+    "yearsOfService": 11,
+    "salary": 146400,
+    "patientsHandled": 26,
+    "performanceScore": 0.94
+  },
+  {
+    "staffId": "S1194",
+    "department": "Administration",
+    "role": "Doctor",
+    "yearsOfService": 14,
+    "salary": 153600,
+    "patientsHandled": 35,
+    "performanceScore": 0.85
+  },
+  {
+    "staffId": "S1195",
+    "department": "Neurology",
+    "role": "Technician",
+    "yearsOfService": 26,
+    "salary": 91200,
+    "patientsHandled": 0,
+    "performanceScore": 0.71
+  },
+  {
+    "staffId": "S1196",
+    "department": "Cardiology",
+    "role": "Administrative",
+    "yearsOfService": 27,
+    "salary": 92400,
+    "patientsHandled": 0,
+    "performanceScore": 0.76
+  },
+  {
+    "staffId": "S1197",
+    "department": "Neurology",
+    "role": "Doctor",
+    "yearsOfService": 11,
+    "salary": 146400,
+    "patientsHandled": 60,
+    "performanceScore": 0.89
+  },
+  {
+    "staffId": "S1198",
+    "department": "Neurology",
+    "role": "Nurse",
+    "yearsOfService": 3,
+    "salary": 74200,
+    "patientsHandled": 45,
+    "performanceScore": 0.96
+  },
+  {
+    "staffId": "S1199",
+    "department": "Administration",
+    "role": "Nurse",
+    "yearsOfService": 18,
+    "salary": 95200,
+    "patientsHandled": 37,
+    "performanceScore": 0.85
+  }
+]
