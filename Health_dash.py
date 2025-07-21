@@ -1,4 +1,6 @@
-# IMPORTATION DES LIBRAIRIES
+# -----------------------------------------------------------------------------
+# IMPORTATTIONS DES BIBLIOTHÈQUES
+# -----------------------------------------------------------------------------
 
 import streamlit as st
 import pandas as pd
@@ -18,8 +20,8 @@ from functools import partial
 
 # Configuration de la page Streamlit
 st.set_page_config(
-    page_title="Tableau de Bord Médical",
-    page_icon="🏥",
+    page_title="Medical Dashboard",
+    page_icon="🩺",
     layout="wide",
     initial_sidebar_state="expanded"
 )
@@ -149,7 +151,7 @@ translations = {
         # Main titles
         "app_title": "Medical Dashboard",
         ##-------------------Check how to say Dashboard de suivi------------------
-        "sidebar_title": "Dashboard",  
+        "sidebar_title": "Medical Dashboard",  
         "sidebar_subtitle": "Elite Medical Analytics Platform",
         "main_header": "MEDICAL DASHBOARD",
         "summary_section": "Summary of Key Points",
@@ -354,9 +356,9 @@ themes = {
 
 # Initialisation des paramètres de session s'ils n'existent pas déjà
 if 'language' not in st.session_state:
-    st.session_state.language = "fr"  # Langue par défaut: français
+    st.session_state.language = "en"  # Langue par défaut: Anglais
 if 'theme' not in st.session_state:
-    st.session_state.theme = "dark_gold"  # Thème par défaut: Noir & Or
+    st.session_state.theme = "dark_emerald"  # Thème par défaut: Noir & Or
 if 'currency' not in st.session_state:
     st.session_state.currency = "fcfa"  # Devise par défaut: FCFA
 if 'compact_mode' not in st.session_state:
@@ -822,7 +824,7 @@ patients_df, personnel_df, departements_df, quotidien_df = charger_donnees()
 # -----------------------------------------------------------------------------
 
 # Barre latérale
-st.sidebar.image("https://img.icons8.com/color/96/000000/hospital-3.png", width=80)
+# st.sidebar.image("https://img.icons8.com/color/96/000000/hospital-3.png", width=80)
 st.sidebar.title(t("sidebar_title"))
 st.sidebar.markdown(f"<div style='color: {current_theme['primary_color']}; margin-bottom: 20px; font-weight: 500;'>{t('sidebar_subtitle')}</div>", unsafe_allow_html=True)
 
@@ -917,7 +919,7 @@ filtre_resultat = st.sidebar.multiselect(
 # -----------------------------------------------------------------------------
 
 # Appliquer les filtres
-if len(plage_date) == 2:
+if len(plage_date) == 2: 
     date_debut, date_fin = plage_date
     # Convertir en datetime pour une comparaison correcte
     date_debut_dt = pd.Timestamp(date_debut)
